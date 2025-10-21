@@ -1,26 +1,32 @@
 # 🎯 Number Guessing Game (Python)
 
-A simple and interactive **command-line number guessing game** built in Python.  
-The player tries to guess a secret number between **1 and 100**, with limited attempts depending on the chosen difficulty level.
+░█▄█░█▀█░█▀▄░█▀▄░█▀▀░█▀▄░░░█▀▀░█▀█░█▀▄░█▀▀░█▀▄
+░█░█░█▀█░█▀▄░█▀▄░█▀▀░█▀▄░░░█░░░█░█░█▀▄░█▀▀░█▀▄
+░▀░▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀
+
+A fun and interactive **Python command-line game** where you try to guess a secret number between **1 and 100**.  
+Challenge yourself with different difficulty levels, track your attempts, and play again as many times as you want! 🚀   
 
 ---
 
 ## 🕹️ Gameplay
 
-1. **Choose a difficulty:**
-   - 🟢 **Easy** → 9 attempts  
-   - 🟡 **Medium** → 6 attempts  
-   - 🔴 **Hard** → 3 attempts
+1️⃣ **Choose your difficulty:**
+| Level | Attempts | Description |
+|--------|-----------|--------------|
+| 🟢 Easy   | 9 | For beginners who like to warm up |
+| 🟡 Medium | 6 | Balanced challenge |
+| 🔴 Hard   | 3 | Only for risk-takers! |
 
-2. **Guess the secret number** between 1 and 100.  
-   - If your guess is **too low**, the game will say _“Too low!”_  
-   - If it’s **too high**, it will say _“Too high!”_  
-   - When you find the correct number, it displays your total attempts.
+2️⃣ **Start guessing** between 1 and 100  
+   - “Too low!” → your number is smaller  
+   - “Too high!” → your number is larger  
+   - “Correct!” → you found it 🎉 
 
-3. If you run out of attempts, the game ends with:
+3️⃣ If you run out of attempts, the game ends with:
    - Game Over! The secret number was X.
 
-4. After each game, you can choose to **play again** or **exit**:
+4️⃣ After each game, you can choose to **play again** or **exit**:
    - Play again? (Y/N)
 
 
@@ -72,3 +78,7 @@ Tacdin Özmen
 Python & Data Science Enthusiast
 🇮🇹 Currently based in Como, Italy
 📍 GitHub: @tcdn7
+
+🪪 License
+
+MIT License — free for learning and sharing.
