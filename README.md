@@ -44,19 +44,19 @@ Challenge yourself with different difficulty levels, track your attempts, and pl
 ---
 
 ## 🧠 Example Session
-Choose difficulty (E/M/H): M
-Difficulty: Medium (6 attempts)
-Enter your guess (1-100): 50
-Too low!
-Attempts left: 5
-Enter your guess (1-100): 80
-Too high!
-Attempts left: 4
-Enter your guess (1-100): 79
-Correct!
-You found it in 3 attempts.
-Play again? (Y/N): N
-Thanks for playing!
+-Choose difficulty (E/M/H): M
+-Difficulty: Medium (6 attempts)
+-Enter your guess (1-100): 50
+-Too low!
+-Attempts left: 5
+-Enter your guess (1-100): 80
+-Too high!
+-Attempts left: 4
+-Enter your guess (1-100): 79
+-Correct!
+-You found it in 3 attempts.
+-Play again? (Y/N): N
+-Thanks for playing!
 
 
 🚀 Roadmap / Future Improvements
